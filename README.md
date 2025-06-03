@@ -19,3 +19,15 @@ Run the card version with:
 python3 ttt_cards.py
 ```
 
+## Tic Tac Toe Cards GUI
+
+`ttt_cards_gui.py` extends the card game with a simple Pygame interface and a
+basic AI opponent. Select cards and board cells with your mouse to play against
+the computer.
+
+Run the GUI version with:
+
+```bash
+python3 ttt_cards_gui.py
+```
+
