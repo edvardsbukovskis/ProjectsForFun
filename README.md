@@ -19,15 +19,4 @@ Run the card version with:
 python3 ttt_cards.py
 ```
 
-## Tic Tac Toe Cards GUI
-
-`ttt_cards_gui.py` now offers a more polished experience with a 4x4 board,
-animated piece placement and coloured cards. The AI also evaluates the board to
-make smarter choices. Use your mouse to select a card and then a board cell.
-
-Run the GUI version with:
-
-```bash
-python3 ttt_cards_gui.py
-```
 
